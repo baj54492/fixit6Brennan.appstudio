@@ -1,4 +1,4 @@
-//create an array
+//create an array for petNames
 let petNames = ['Darcy', 'Jack', 'Jerry', 'Marty', 'Vito', 'Vinny', 'Riley', 'Saddie', 'Marge', 'Sam']
 
 
